@@ -3,7 +3,7 @@
 Welcome to my centralized engineering portfolio hub. I design, build, and deploy production-ready full-stack systems and machine learning data pipelines.
 
 ## 🔗 Main Access Points
-* **Live Portfolio Dashboard:** [sdr2277.github.io](https://github.io)
+* **Live Portfolio Dashboard:** [sdr2277.github.io](https://sdr2277.github.io)]
 * **LinkedIn Profile:** [Connect on LinkedIn](https://linkedin.com)
 
 ## 🛠️ Main Technology Ecosystem
