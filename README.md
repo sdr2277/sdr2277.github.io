@@ -1,22 +1,17 @@
-### 🌐 Synthetic AQI Data Generator & Visualizer
+# 👨‍💻 Engineering Portfolio | SDR2277
 
-A full-stack interactive engineering platform built to simulate, process, and map atmospheric data across global cities. 
+Welcome to my centralized engineering portfolio hub. I design, build, and deploy production-ready full-stack systems and machine learning data pipelines.
 
-### 🚀 Live Deployment
+## 🔗 Main Access Points
+* **Live Portfolio Dashboard:** [sdr2277.github.io](https://github.io)
+* **LinkedIn Profile:** [Connect on LinkedIn](https://linkedin.com)
 
-* **Live Web App:** [Launch Interactive Streamlit App](https://synthetic-aqi-dashboard.streamlit.app)
-* **Main Portfolio Hub:** [sdr2277 Portfolio](https://sdr2277.github.io)
+## 🛠️ Main Technology Ecosystem
+* **Core Languages:** Python, HTML5, CSS3, JavaScript
+* **Data Processing & ML:** Pandas, NumPy, Scikit-Learn, Plotly Express
+* **UI & Serving Layers:** Streamlit Engine, Responsive Web Designs
+* **DevOps Infrastructure:** Docker Containers, GitHub Pages Engines, Cloud Environments
 
-### 🛠️ Core Technical Features
-
-* **Dynamic Simulation Engines:** Implements seasonal and hourly mathematical pattern fluctuations to model environmental pollutants realistically.
-* **Algorithmic AQI Conversions:** Processes variable particle concentrations into official regulatory AQI breakpoints programmatically.
-* **Geospatial Analytics:** Leverages MapLibre rendering engines to plot regional air index variances dynamically across coordinate boundaries.
-* **Advanced Data Processing:** Built using Pandas matrix operations to deliver modular user-filtered datasets and clean file streaming downloads.
-
-### 🧰 Technology Infrastructure
-
-* **Core Language:** Python 3.10
-* **User Interface:** Streamlit Engine
-* **Data Pipelines:** Pandas, NumPy
-* **Visualization Layer:** Plotly Express (MapLibre Engine)
+## 📁 Active Projects Archive
+1. **[Synthetic AQI Dashboard Tool](https://github.com):** An interactive data visualization panel programmatically processing particulate matter thresholds into active geographic maps.
+2. **Production ML Predictor:** A containerized inference engine utilizing structured cloud hosting architectures.
