@@ -1,4 +1,4 @@
-# 👨‍💻 Engineering Portfolio | SDR2277
+# 👨‍💻 Engineering Portfolio | Sudipta Debroy
 
 Welcome to my centralized engineering portfolio hub. I design, build, and deploy production-ready full-stack systems and machine learning data pipelines.
 
